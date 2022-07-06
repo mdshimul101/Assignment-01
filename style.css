@@ -260,6 +260,7 @@ h2 {
 }
 
 /* ----- from-section ----- */
+
 .from-section {
     width: 50%;
     margin: auto;
@@ -285,12 +286,10 @@ h2 {
     outline: none;
     border: 1px solid #ccc;
     box-sizing: border-box;
-
 }
 
 .from-contact-col button {
     width: 25%;
-
 }
 
 /* -- contact-us -- */
