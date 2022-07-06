@@ -247,7 +247,6 @@ h2 {
 .our-activity img {
     width: 100%;
     height: 350px;
-
 }
 
 .our-activity p {
@@ -260,6 +259,38 @@ h2 {
     text-align: left;
 }
 
+/* ----- from-section ----- */
+.from-section {
+    width: 50%;
+    margin: auto;
+}
+
+.from-section h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #777;
+}
+
+.from-contact-col {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.from-contact-col input,
+.from-contact-col textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+}
+
+.from-contact-col button {
+    width: 25%;
+}
 
 /* -- contact-us -- */
 
